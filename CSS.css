@@ -1,0 +1,15 @@
+/* CSS */
+#product-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product {
+  flex: 1;
+  margin: 10px;
+  text-align: center;
+}
+
+.product img {
+  width: 100%;
+}
